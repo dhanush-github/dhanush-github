@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Dhanush N</h1>
 <h3 align="center">Full Stack Data Scientist from India</h3>
-(img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.voH.AfPQNrQ9IxZBFVlt?w=1024&h=1024&rs=1&pid=ImgDetMain")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.voH.AfPQNrQ9IxZBFVlt?w=1024&h=1024&rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-github&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-github" /> </p>
 
