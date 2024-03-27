@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Dhanush N</h1>
+<h1 align="center">Hi 👋, I'm N Sai Dhanush </h1>
 <h3 align="center">Full Stack Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.voH.AfPQNrQ9IxZBFVlt?w=1024&h=1024&rs=1&pid=ImgDetMain">
 
