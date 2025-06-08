@@ -20,7 +20,7 @@
 - 🏢 **Decision Science Analyst** (ex-Accenture, ex-McKinsey)
 - 🎓 M.Tech Data Science, Amrita Vishwa Vidyapeetham
 - 🤖 Passionate about ML, GenAI, supply chain optimization, MLOps, agents, and AI for business
-- 📜 Researcher | Blogger | Open Source Contributor
+- 📜 Researcher | Blogger 
 - 📬 Always open to collaboration!
 
 ---
@@ -30,7 +30,6 @@
 **Languages & Libraries:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
