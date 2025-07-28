@@ -1,5 +1,5 @@
-<!-- Banner Section -->
-<img src="https://github.com/dhanush-github/dhanush-github/blob/main/assets/banner.png" alt="Welcome Banner" style="width:100%;"/>
+<!-- GitHub Profile Banner -->
+<img src="https://github.com/dhanush-github/dhanush-github/blob/main/banner.png" alt="Welcome Banner" style="width:100%;" />
 
 # 👋 Hi, I'm N. Sai Dhanush!
 
@@ -63,6 +63,7 @@ If you're hiring, collaborating, or just want to geek out about AI, reach out!
 ---
 
 📍 _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+
 
 
 
